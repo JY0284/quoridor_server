@@ -1,5 +1,13 @@
 # 服务端用户手册
 
+Quoridor(步步为营) 游戏服务端，快试试用代码玩起这个有趣的桌上游戏吧！
+
+请结合[Quoridor客户端](https://github.com/vill-jiang/quoridor_client)使用。
+
+关于Quoridor游戏的教程，请看[这个视频](https://www.bilibili.com/video/BV1og4y1b7tN/)。
+
+For English users, the document will update soon, but you may still try using the codes, if you meet any problems pls contact me.
+
 ## 服务端功能简述
 1. 服务端提供Quoridor游戏的所有逻辑判断，包括玩家的行动和胜负判断，棋盘的状态更新等；
 2. 服务端提供与客户端通信的服务接口，能够与超过300个客户端同时进行游戏通信，完成客户端正常游戏的过程；
